@@ -1,0 +1,4 @@
+WIENER FILTER RESULTS
+filter_len : 32
+SNR Out    : 43.37 dB
+MSE        : 4.107462e-07
