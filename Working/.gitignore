@@ -1,0 +1,32 @@
+# Build folders
+build/
+Debug/
+Release/
+
+# STM32CubeIDE
+*.ioc
+*.launch
+.settings/
+.cproject
+.project
+
+# Vivado / Vitis
+.vivado/
+*.jou
+*.log
+*.str
+*.xpr
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+
+# Object files
+*.o
+*.elf
+*.bin
+*.map
+
+# OS junk
+.DS_Store
+Thumbs.db
