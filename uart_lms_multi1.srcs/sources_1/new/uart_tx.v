@@ -1,7 +1,7 @@
 module uart_tx #
 (
     parameter CLK_FREQ = 100_000_000,
-    parameter BAUD_RATE = 625000
+    parameter BAUD_RATE = 1250000
 )
 (
     input clk,
